@@ -6,5 +6,8 @@ create code
 
 run code
 
+commit 
+push
+
 
 thank you
